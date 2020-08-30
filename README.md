@@ -1,5 +1,4 @@
-<include a CircleCI status badge, here>
-
+[![CircleCI](https://circleci.com/gh/minageorge5080/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/minageorge5080/Operationalize-a-Machine-Learning-Microservice-API)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
